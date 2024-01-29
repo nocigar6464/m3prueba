@@ -1,0 +1,9 @@
+.graficos {
+  display: flex;
+  width: 500px; /* Ancho deseado */
+  height: 500px; /* Alto deseado */
+}
+.contenedorchart {
+  width: auto; /* Ancho deseado */
+  height: 300px; /* Alto deseado */
+}
